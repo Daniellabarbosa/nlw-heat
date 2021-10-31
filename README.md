@@ -1,6 +1,7 @@
 #                                                         NLW HEAT
 
 
+![Design sem nome (4)](https://user-images.githubusercontent.com/74657202/139595773-20e4bb7d-9575-4bc3-b80e-60acec7eb4fb.png)
 
 💻 Sobre o projeto:
 
